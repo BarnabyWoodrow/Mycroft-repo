@@ -1,3 +1,3 @@
 # Mycroft-repo
 
-This is a test! :-)
+This is where I will share stuff for mycroft. Learn more a mycroft.ai.
